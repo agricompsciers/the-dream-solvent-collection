@@ -1,1 +1,1 @@
-![Uploading Untitled.png…]()
+The Dream Solvent Collection is a repository of tools and web applications I developed to manage my own case of episodic executive dysfunction. This includes simple web applications to track and plan tasks, written guides on how to navigate certain difficult situations, and many more ways I want to help myself and other people live a little easier.
